@@ -1,9 +1,10 @@
 # Algoritma_Struktur_Data
 SEARCHING
+
 adalah suatu proses untuk mengumpulkan sejumlah informasi di dalam komputer dan kemudian mencari kembali informasi yang diperlukan secepat mungkin.
 adalah suatu proses untuk mengumpulkan sejumlah informasi di dalam komputer 
 dan kemudian mencari kembali informasi yang diperlukan secepat mungkin.
-dua macam yaitu
+dua macam yaitu:
 1.Sequential Searching
 Untuk mencari suatu data ,data yang ada dibandingkan satu per satu secara berurutan dengan yang dicari sampai data tersebut ditemukan atau tidak ditemukan.
 Untuk mencari suatu data ,data yang ada dibandingkan satu per satu secara 
