@@ -1,5 +1,4 @@
-# Algoritma_Struktur_Data
-SEARCHING
+# SEARCHING
 
 adalah suatu proses untuk mengumpulkan sejumlah informasi di dalam komputer dan kemudian mencari kembali informasi yang diperlukan secepat mungkin.
 adalah suatu proses untuk mengumpulkan sejumlah informasi di dalam komputer 
